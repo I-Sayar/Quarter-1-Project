@@ -10,13 +10,10 @@ Food safety is important for both customers and restaurant owners. This project 
 1. **Preprocessing**  
    - Clean and format the data  
    - Handle missing values  
-   - Perform feature engineering  
 
 2. **Attribute Selection**  
-   - Use methods like CorrelationAttributeEval and ReliefF to select important features  
 
 3. **Classifier Models**  
-   - Train and evaluate models such as Naive Bayes and RandomForest to classify restaurant grades  
 
 ## How to Run  
 1. **Download the Dataset**  
