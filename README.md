@@ -23,4 +23,4 @@ Food safety is important for both customers and restaurant owners. This project 
    ```bash
    python preprocessing.py
    ```
-3. Download WEKA and follow the WEKA process instructions in the report
+3. Download WEKA and follow the instructions in the report
