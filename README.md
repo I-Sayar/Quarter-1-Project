@@ -26,4 +26,4 @@ We use the **NYC Restaurant Inspection Results** dataset from Kaggle:
    ```bash
    python preprocessing.py
    ```
-3. Dowbload WEKA and follow the WEKA process instructions in the report
+3. Download WEKA and follow the WEKA process instructions in the report
