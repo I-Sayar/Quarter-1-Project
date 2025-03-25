@@ -3,7 +3,7 @@
 Food safety is important for both customers and restaurant owners. This project predicts restaurant inspection grades to help people choose safe places to eat and guide restaurants in improving their health standards. By analyzing which factors lead to better grades, the model identifies key areas that impact food safety. With foodborne illnesses being a major concern, this project provides a clear and data driven way to assess restaurant safety, helping to protect public health and build trust in the food industry.
 
 ## Dataset  
-We use the **NYC Restaurant Inspection Results** dataset from Kaggle:  
+**NYC Restaurant Inspection Results** dataset from Kaggle:  
 [NYC Restaurant Inspection Results](https://www.kaggle.com/datasets)  
 
 ## Process  
